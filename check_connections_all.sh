@@ -29,4 +29,4 @@ if [[ "${CONNECTYPE}" -lt "${WTHRESHOLD}"  ]]; then
 fi
 }
 
-#connection
+connection
