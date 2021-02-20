@@ -1,7 +1,7 @@
 #!/bin/bash
 # Script para lectura de conexiones 
 # Elaborado por Jorge Susunaga
-# jsusunaga@novell.com
+# jsusunaga.s@gmail.com
 
 EXITCODE=""
 WTHRESHOLD=$1	#Umbral Warning 4000
